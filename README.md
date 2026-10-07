@@ -1,3 +1,5 @@
+![TinyMCE AI Skills](docs/REPOSITORY-COVER.svg)
+
 # tinymce-ai-skills
 
 A collection of AI skills for TinyMCE products — compatible with Claude Code, Codex, Cursor, GitHub Copilot, Google Antigravity, and Windsurf.
@@ -41,3 +43,10 @@ An AI skill is a set of files that gives an AI assistant deep, specialised knowl
 ## Contributing
 
 Skills are maintained by the TinyMCE team. To request a new skill or report an issue, open a GitHub issue.
+
+
+---
+
+## Repository identity
+
+This repository uses a versioned visual cover in `docs/REPOSITORY-COVER.svg` to make its scope visible at a glance.
